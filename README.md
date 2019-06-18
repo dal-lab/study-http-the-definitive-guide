@@ -1,2 +1,1 @@
-# study-http-the-definitive-guide
-HTTP: The Definitive Guide
+# `HTTP: The Definitive Guide` 스터디
