@@ -1,6 +1,6 @@
 ---
 name: Question
-about: 질문
+about: 질문이 있을때
 title: ''
 labels: question
 assignees: ''
